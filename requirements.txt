@@ -2,4 +2,3 @@ voila
 ipywidgets
 numpy
 matplotlib
-tesswcs==1.1.2
