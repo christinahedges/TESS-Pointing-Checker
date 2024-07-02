@@ -2,5 +2,4 @@ voila
 ipywidgets
 numpy
 matplotlib
-tesswcs
-astropy
+tesswcs==1.1.2
